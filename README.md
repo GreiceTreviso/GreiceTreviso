@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GreiceTreviso/GreiceTreviso/main/WhatsApp%20Video%202026-03-25%20at%2000.08.59.gif" width="400px">
+</p>
+
 
 <div>
 <a href="https://beacons.ai/GreiceTreviso"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GreiceTreviso&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=Treviso%20GitHub%20Stats&cache_seconds=1"/>
