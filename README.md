@@ -21,10 +21,7 @@ _Objetivos_  ↷
 <P>&nbsp;</P
     
  <div align="center">
-  <a href="https://beacons.ai/GreiceTreviso">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GreiceTreviso&show_icons=false&theme=midnight-purple&include_all_commits=false&count_private=false&custom_title=Treviso%20GitHub%20Stats&cache_seconds=1&v=1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreiceTreviso&layout=compact&langs_count=16&theme=midnight-purple&custom_title=language%&cache_seconds=1&v=1"/>
-  </a>
+
 </div> 
 
 <picture align="center">
