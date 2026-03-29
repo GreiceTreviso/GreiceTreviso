@@ -22,8 +22,16 @@ _Objetivos_  ↷
     
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GreiceTreviso&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"/> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GreiceTreviso&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
-
+<table align="center">
+<tr>
+<td>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GreiceTreviso&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"/>
+</td>
+<td>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GreiceTreviso&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+</td>
+</tr>
+</table>
 </div>
 
 <picture align="center">
