@@ -20,9 +20,11 @@ _Objetivos_  ↷
 
 <P>&nbsp;</P
     
- <div align="center">
+<div align="center">
 
-</div> 
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GreiceTreviso&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"/><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GreiceTreviso&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GreiceTreviso/GreiceTreviso/output/github-contribution-grid-snake-dark.svg">
